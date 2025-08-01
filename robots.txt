@@ -1,4 +1,3 @@
 User-agent: *
 Disallow: 
-Disallow: /cgi-bin/
 Sitemap: https://ccleanerpronow.github.io/sitemap.xml
